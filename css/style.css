@@ -2,7 +2,7 @@
     width: 1366px;
     width: 100%;
     height: 324px;
-    background-image: url('../images/group.png');
+    background-image: url('../images/group12.jpg');
     background-size: cover;
     margin: 0 auto;
     /* position: relative; */
@@ -144,7 +144,7 @@
 }
 
 .bg-footer{
-    background-image:url('../images/group13.png');
+    background-image:url('../images/group1.jpg');
     width: 1366px;
     width: 100%;
     height:auto;
@@ -153,9 +153,12 @@
 }
 
 .min-box-left{
+    width: 1088px;
+    /* background: red; */
+    margin: 0 auto;
     font-family: 'Poppins', sans-serif;
     color: #5863F8; 
-    margin-left: 139px;
+    /* margin-left: 200px; */
     padding-top: 112px;
 
 }
