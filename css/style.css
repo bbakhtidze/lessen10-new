@@ -146,8 +146,8 @@
 .bg-footer{
     background-image:url('../images/group1.jpg');
     width: 1366px;
+    height: 612px;
     width: 100%;
-    height:auto;
     background-size: cover;
     margin-top: 90px;
 }
@@ -180,6 +180,7 @@
     margin-top: 36px;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin-bottom: 90px;
     
     
 }
